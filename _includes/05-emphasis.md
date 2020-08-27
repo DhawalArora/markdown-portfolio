@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Coding is future_ <br>
+**I am part of this coding lesson** <br>
+__Life _Is precious_ Live Life__
