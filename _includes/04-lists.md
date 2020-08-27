@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Cat
+2. Study
+3. Super Hero Movies
